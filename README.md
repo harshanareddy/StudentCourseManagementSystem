@@ -16,4 +16,5 @@ Developed a Java-based backend application simulating a university-level student
 -> Used a Main driver class to simulate user logins, enrollments, and course displays.
 
 **Technologies Used:**
+
 Java · OOP · Interfaces · Inheritance · Enums · Collections (ArrayList)
